@@ -1,0 +1,10 @@
+# Logi
+*.log
+
+# Pliki tymczasowe i wirtualne środowiska
+venv/
+node_modules/
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
