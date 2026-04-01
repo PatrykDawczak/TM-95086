@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<testsuites>
+    <testsuite name="ConsistencyTest" tests="2">
+        <testcase classname="Validation" name="Identyfikacja Aplikacji" />
+        <testcase classname="Validation" name="Dostępność UI">
+            <failure message="Nie odnaleziono ID 'ACCESSIBILITY'. Sugestia: Zweryfikuj czy element nie zmienił nazwy na jedną z dostępnych: ['ADD', 'TEXT', 'LOCALVIDEO'].">INFORMACJA</failure>
+        </testcase>
+    </testsuite>
+</testsuites>
