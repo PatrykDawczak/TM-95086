@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","0","test_screenshot_on_fail","","2026-05-09","failed","2026-05-09","","test_103_attachments","",""
+"","0","test_success_example","","2026-05-09","passed","2026-05-09","","test_101_allure_init","",""
+"","1","test_failure_example","","2026-05-09","failed","2026-05-09","","test_101_allure_init","",""
+"","0","Test wczytywania listy lekcji","","2026-05-09","passed","2026-05-09","","test_102_meta_reporting","",""
